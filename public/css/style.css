@@ -4965,9 +4965,10 @@ img{
 	top:0;
 	width:100%;
 	height:100%;
+	background-image: url(../images/banner-image-layer.jpg);
 	background-position:center center;
 	background-repeat:no-repeat;
-	background-size:cover;	
+	background-size:cover;
 }
 
 .page-banner .image-layer:before{
